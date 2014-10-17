@@ -1,0 +1,4 @@
+v0.0.1: première publication
+v0.0.2: ajout du paramétrage ip/port domogik dans les settings.
+v0.0.3: amélioration de la fluidité, réorganisation de la navigation
+v0.0.4: changement de paramêtre, maintenant il faut indiquer l'url de la base REST
